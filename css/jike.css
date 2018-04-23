@@ -20,7 +20,7 @@
 	width:100%;
 }
 .head_infomation{
-	width: 60%;
+	width: 69%;
 	height: 100%;
 	margin:0 auto;
 }
@@ -63,4 +63,9 @@
 	background-position:0px -47px;
 	margin-left:-12px;
 }
-
+.head_other,#head_ask{
+	width:13rem;
+	position:absolute;
+	top:0.7rem;
+	left:24rem;
+}
